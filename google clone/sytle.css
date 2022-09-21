@@ -1,0 +1,38 @@
+img{
+  display: block;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+}
+input{
+  display: block;
+  width: 90%;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+  border: 1px solid black;
+  height: 30px;
+}
+button{
+  font-size: large;
+  text-align: center;
+  background: lightgray;
+  border-radius: 5px;
+  padding: 12px;
+  margin: 10px;
+  text-align: center;
+  justify-content: center;
+}
+.btn-wrapper{
+  display: flex;
+  justify-content: center;
+}
+h2{
+  font-weight: bolder;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-top: 30px;
+}
